@@ -13,6 +13,6 @@ javac Producto.java ArbolInventario.java Main.java
 java Main
 
 ## Capturas
-![Menu Principal](capturas/captura_menu.png)
-![Insercion](capturas/captura_insercion.png)
-![Busqueda](capturas/captura_busqueda.png)
+![Menu Principal](Capturas/captura_menu.png)
+![Insercion](Capturas/captura_insercion.png)
+![Busqueda](Capturas/captura_busqueda.png)
