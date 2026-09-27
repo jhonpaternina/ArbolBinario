@@ -13,8 +13,6 @@ javac Producto.java ArbolInventario.java Main.java
 java Main
 
 ## Capturas
-capturas/captura_menu.png - Menú Principal
-
-capturas/captura_insercion.png - Inserción de productos
-
-capturas/captura_busqueda.png - Búsqueda y recorrido InOrden
+![Menu Principal](capturas/captura_menu.png)
+![Insercion](capturas/captura_insercion.png)
+![Busqueda](capturas/captura_busqueda.png)
